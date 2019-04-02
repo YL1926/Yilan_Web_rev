@@ -33,25 +33,17 @@ h4{
 
 img {
     text-align:center;
-    max-width:100%;
+    width:100%;
     
     }
 
-    .photo{
-        text-align: center
-}
 
-
-
-
-
-}
     section{
     padding-top:10px;
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom:20px;
-    margin: 30px;
+    
 
 }
 
